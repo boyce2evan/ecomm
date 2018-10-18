@@ -43,7 +43,7 @@
                 <div class="clearfix"></div>
             </div>
             <div class="x_content">
-                Add content to the page ...
+                Page content goes here ...
             </div>
         </div>
     </div>
